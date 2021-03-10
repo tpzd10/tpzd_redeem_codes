@@ -1,1 +1,1 @@
-wget https://raw.githubusercontent.com/tpzd10/test/raw/main/download.jpeg
+wget https://github.com/tpzd10/tpzd-redeem-codes/raw/main/download.jpeg
